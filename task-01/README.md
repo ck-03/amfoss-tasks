@@ -1,1 +1,1 @@
-<img src="Task 01-screenshot.png" width="576" height="324">
+I followed the steps given ([link](https://github.com/amfoss/star-me)) and was easily able to find the output.
