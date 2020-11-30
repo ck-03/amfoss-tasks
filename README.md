@@ -17,7 +17,7 @@ I am Chandrakiran.J, Btech cse(2020-2024) student at Amrita School of Engineerin
 |  |  |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-05">Task-05 </a>| Rustic Scraper *(pending)*|
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-06">Task-06</a> | Geddit *(pending)* |
-| <a href="hhttps://github.com/ck-03/amfoss-tasks/tree/main/task-07" > Task-07 </a>  | Ubiquitous UI *(pending)* |
+| <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-07">Task-07 </a>  | Ubiquitous UI *(pending)* |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-08">Task-08 </a>  | Sir Perceval’s quest *(pending)* |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-09">Task-09 </a> | Spammer_Spaghetti (Pending)|
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-12">Task-12 </a>  |  If maths was fun  *(pending)* |
