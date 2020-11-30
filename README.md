@@ -12,6 +12,7 @@ I am Chandrakiran.J, Btech cse(2020-2024) student at Amrita School of Engineerin
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-04">Task-04</a> |  Debugging Derbies |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-10">Task-10</a> | CS50  |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-11">Task-11</a> | Poster Design |
+| <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-12">Task-12</a>| If maths was fun |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-14">Task-14</a> | Bandit |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-15">Task-15</a> | Project Euler |
 |  |  |
@@ -20,7 +21,6 @@ I am Chandrakiran.J, Btech cse(2020-2024) student at Amrita School of Engineerin
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-07">Task-07 </a>  | Ubiquitous UI *(pending)* |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-08">Task-08 </a>  | Sir Perceval’s quest *(pending)* |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-09">Task-09 </a> | Spammer_Spaghetti (Pending)|
-| <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-12">Task-12 </a>  |  If maths was fun  *(pending)* |
 | <a href="https://github.com/ck-03/amfoss-tasks/tree/main/task-13">Task-13 </a>  | Circuit Design  *(pending)* |
 
 ## About my tasks
